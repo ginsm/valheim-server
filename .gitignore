@@ -1,0 +1,5 @@
+_state
+BepInEx/cache/**
+**.log
+changelog.txt
+mods.yml
