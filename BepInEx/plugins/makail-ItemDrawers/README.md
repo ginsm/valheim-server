@@ -18,3 +18,8 @@ Takes 10 of the finest wood to craft.
     Left Alt + Interact - Takes a single item from the drawer
     Left Alt + Interact (At 0 quantity) - Clear the item type from the drawer
     Left Shift + Interact - Deposits all of the item in your inventory into the drawer
+
+## Changes
+    0.5.5 - Fix network sync issue.
+    0.5.4 - Fix initial load of items in drawers.
+    0.5.3 - 0.216.9 compatibility fixes

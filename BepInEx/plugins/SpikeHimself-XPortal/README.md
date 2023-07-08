@@ -61,14 +61,6 @@ Furthermore, XPortal has a configuration option to fully integrate with [Advance
 
 <img src="https://raw.githubusercontent.com/SpikeHimself/XPortal/main/images/advancedportals-small.png" />
 
-XPortal has a very minor known issue related to item placement. When another mod applies a specific patch, XPortal's portal placement detection no longer works. The mods that trigger this behaviour include:
-
-* Valheim Plus
-* Mass Farming
-
-
-I am working hard to resolve this issue. In the mean time, rest assured that XPortal will still function 99% correctly. You will not face any problems at all if you interact with a portal immediately after building it.
-
 XPortal is known to be fully incompatible with:
 
 * [AnyPortal](https://valheim.thunderstore.io/package/sweetgiorni/AnyPortal/) by sweetgiorni
@@ -128,6 +120,7 @@ To add a translation to XPortal, choose `Translation` when submitting a [New iss
 * MexExe for translating to Polish, Russian
 * hanawa07 for translating to Korean
 * bonesbro for adding a colour for Stone Portals (#39)
+* VasariRulez for translating to Italian
 
 
 # I did more too!
@@ -139,4 +132,4 @@ Please have a look at my other mod too! [XStorage](https://valheim.thunderstore.
 
 My mods are free and will remain free, for everyone to use, edit or learn from. I lovingly poured many hours of hard work into these projects. If you enjoy my mods and want to support my work, don't forget to click the Like button, and please consider buying me a coffee :)
 
-[<img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="40" align="right" />](https://www.buymeacoffee.com/SpikeHimself)
+[<img src="https://raw.githubusercontent.com/SpikeHimself/resources/main/images/thirdparty/buy-me-a-coffee-small.png" align="right" />](https://www.buymeacoffee.com/SpikeHimself)

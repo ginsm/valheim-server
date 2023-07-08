@@ -1,3 +1,6 @@
+### 1.2.1
+- Recompiled with latest game version of Valheim.
+
 ### 1.1.5
 - Horse Pin is back. It will appear when we are not far from the horse.
 - Horse Cart Pin is back. It will appear when we are not far from the cart.
@@ -25,3 +28,4 @@
 ### Valheim-
 This mod isn't compatible with Valheim+.
 Please navigate to https://github.com/AzumattDev/Valheim-Plus-Replacements to find replacements for its features.
+

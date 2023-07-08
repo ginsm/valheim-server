@@ -1,23 +1,43 @@
-#### v1.2.10 (2023-04-02)
+#### v1.2.13 (2023-06-17)
 
-* Improved gamepad support: the XPortal configuration panel now shows gamepad keyhints!
+* v1.2.13 is a hotfix to v1.2.12
 
-* Give Stone Portals their own colour (thanks bonesbro!)
+* Remember portal connections between sessions (v1.2.12)
 
-* Fix path separators in XPortal release archive
+* Fix a crash related to placing items or using the hoe (v1.2.12)
 
-* Show portal colour tag on hover
+* Jotunn update 2.12.1 (v1.2.12)
 
-* Fix crash when destroying a portal that XPortal doesn't know of
-
-* Jotunn update 2.11.2, BepInEx update 5.4.2102
-
-* Some portal sync optimisations
-
-* Improved logging
+* Revert MonoMod dependencies (hotfixed in v1.2.13)
 
 <details>
 <summary>Click to view previous versions</summary>
+	
+* **v1.2.11** (2023-06-13)
+
+	* Add translation to Italian
+
+	* Update Jotun 2.12.0, BepInEx 5.4.2105
+
+	* Fix portals not connecting after game update 0.216.9
+
+* **v1.2.10** (2023-04-02)
+
+	* Improved gamepad support: the XPortal configuration panel now shows gamepad keyhints!
+
+	* Give Stone Portals their own colour (thanks bonesbro!)
+
+	* Fix path separators in XPortal release archive
+
+	* Show portal colour tag on hover
+
+	* Fix crash when destroying a portal that XPortal doesn't know of
+
+	* Jotunn update 2.11.2, BepInEx update 5.4.2102
+
+	* Some portal sync optimisations
+
+	* Improved logging
 
 * **v1.2.9** (2023-03-23)
 
